@@ -12,9 +12,9 @@ Repositorio dedicado a los retos que propone el cruso Nivel 3: Sistemas gestores
 
 #### Ejercicios acumulativos
 
-- `Ejercicio 1`: Productos en Stock Crítico: Obtén el nombre_producto, precio y stock de todos los productos que tengan menos de 50 unidades disponibles para detectar reposición de almacén. Ordena el resultado de menor a mayor stock.
+- `✓ Ejercicio 1`: Productos en Stock Crítico: Obtén el nombre_producto, precio y stock de todos los productos que tengan menos de 50 unidades disponibles para detectar reposición de almacén. Ordena el resultado de menor a mayor stock.
 
-- `Ejercicio 2`: Filtrado por Patrones de Texto: Selecciona todos los clientes cuyo nombre contenga la letra "a" o cuyo apellido empiece por "G" o "M".
+- `✓ Ejercicio 2`: Filtrado por Patrones de Texto: Selecciona todos los clientes cuyo nombre contenga la letra "a" o cuyo apellido empiece por "G" o "M".
 
 - `Ejercicio 3`: Rangos y Listas de Estados: Consulta los pedidos cuya fecha esté dentro de un rango específico y cuyo estado sea exclusivamente 'pendiente', 'procesando' o 'enviado'.
 
